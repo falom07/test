@@ -1,0 +1,24 @@
+.page
+{
+    background-color: #2f6e71;
+    width: 20%;
+    height: 20vh;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 1.5em;
+    padding: 10px;
+    margin-left: 35%;
+    /*margin-top: 10%;*/
+
+}
+.button{
+    background-color: #2fac2f;
+    width: 70%;
+    margin: 10px 20px 20px 10%;
+    padding: 4px;
+    float: left;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+}

@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 15vh;
+    width: 100%;
+    color: white;
+    background: rgb(13, 85, 79);
+    border-bottom: 2px solid #ffffff;
+}
+
+main {
+    background-color: #3cabaf;
+    height: 75vh;
+}
+
+footer {
+    background-color:  rgb(13, 85, 79);
+    height: 10vh;
+    border-top: 2px solid #ffffff;
+
+}
+.homePage
+{
+    height: 70px;
+    width: 100px;
+    background-color: #1358a8;
+    color: #ffffff;
+    float: left;
+    margin: 15px 15px 15px 30px;
+    display: grid;
+    place-items: center;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+
+}
+.matchesPage
+{
+    height: 70px;
+    width: 100px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #1358a8;
+    float: left;
+    margin: 15px;
+    display: grid;
+    place-items: center;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+}
+.newMatch
+{
+    height: 70px;
+    width: 100px;
+    background-color: #1358a8;
+    color: #ffffff;
+    float: left;
+    margin: 15px;
+    display: grid;
+    place-items: center;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+}
+.newMatch:hover{
+    background-color: #112a46;
+    color: #ffcc00;
+    border: #ffcc00 solid 2px;
+}
+.homePage:hover{
+    background-color: #112a46;
+    color: #ffcc00;
+    border: #ffcc00 solid 2px;
+}
+.matchesPage:hover{
+    background-color: #112a46;
+    color: #ffcc00;
+    border: #ffcc00 solid 2px;
+}
+
