@@ -16,7 +16,7 @@ public class MainLesson {
 //        System.out.println(listWords.get("hi") + listWords.get("buy") + listWords.get("name"));
 
 
-        Integer integer = 2;
+        Integer integer =  2;
         int i = 12;
         double d = 3.;
 //        i(i,d);
